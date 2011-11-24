@@ -4,14 +4,14 @@
     <import addon="xbmc.python" version="1.0"/>
     <import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.xbmcswift" version="0.1"/>
-    <import addon="script.module.brightcove" version="0.1"/>
+    <import addon="script.module.brightcove" version="0.1.1"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary>Summary for New York Times</summary>
-    <description>Description for New York Times</description>
+    <summary>Watch video from the New York Times.</summary>
+    <description>News and opinion video from The NYTimes including breaking news, investigative reporting, national and international coverage. Style and celebrity video.</description>
   </extension>
 </addon>
