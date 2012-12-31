@@ -1,4 +1,4 @@
-<addon id="plugin.video.newyorktimes" name="New York Times" provider-name="Jonathan Beluch (jbel)" version="0.2.0">
+<addon id="plugin.video.newyorktimes" name="New York Times" provider-name="Jonathan Beluch (jbel)" version="0.2.1">
   <requires>
     <import addon="xbmc.python" version="2.0" />
     <import addon="script.module.beautifulsoup" version="3.2.0" />
